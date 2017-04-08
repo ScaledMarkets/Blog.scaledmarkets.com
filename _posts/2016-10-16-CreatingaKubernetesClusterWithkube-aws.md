@@ -1,4 +1,9 @@
-Creating a Kubernetes Cluster With kube-aws
+---
+layout: post
+title: Creating a Kubernetes Cluster With kube-aws 
+---
+
+#Creating a Kubernetes Cluster With kube-aws
 
 Kubernetes is one of the most promising container orchestration frameworks, because it is portable—not tied to a particular cloud provider (even though Google created it)—and because it is full-featured.
 
