@@ -1,6 +1,12 @@
 ---
 layout: post
 title: Creating a Kubernetes Cluster With kube-aws 
+
+
+summary: "How to create a kubernetes Cluster with kube-aws."
+date:   2016-10-16 06:16:01 -0600
+published: true
+tags: [create, cluster, kubernetes, aws]
 ---
 
 #Creating a Kubernetes Cluster With kube-aws
