@@ -86,7 +86,6 @@ https://www.oreilly.com/ideas/using-microservices-to-evolve-beyond-the-data-lake
 <br/><br/>
 
 
-
 <b>Events</b>
 
 API Microservices Summit<br/>
@@ -110,8 +109,6 @@ http://microxchg.io/2017/index.html
 µCon 2017: The Microservices Conference<br/>
 https://skillsmatter.com/conferences/8549-con-2017-the-microservices-conference
 <br/><br/>
-
-
 
 
 <b>Books</b>
@@ -139,8 +136,7 @@ Microservices From Day One
 Production Ready Microservices
 
 Spring Microservices
-
-
+<br/><br/>
 
 
 <b>Resources</b>
